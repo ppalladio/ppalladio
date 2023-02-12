@@ -1,7 +1,9 @@
 ### Hi there 👋 I am Yuxuan Peng,
 
-
+<img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="html5" width="30" height="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/css3-1.svg" alt="css3" width="30" height="30"/>
 <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" width="30" height="30"/>
+
 <!--
 **ppalladio/ppalladio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
