@@ -1,7 +1,8 @@
 ### Hi there 👋 I am Yuxuan Peng,
 
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="30" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="30" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" width="30" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="react" width="30" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="30" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="30" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="reactnative" width="30" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="30" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mysql" width="30" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="30" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="figma" width="30" height="30"/>
-
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cs6.svg" atl="illustrator" width="30" height="30"/>
 <!--
 **ppalladio/ppalladio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
